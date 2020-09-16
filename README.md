@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnicornBoss&hide=CSS,shell" />
-
 ### 👨‍💻 What I'm doing
 - 🔭 I'm a freelancer
 - 🌱 I'm currently learning SwiftUI
